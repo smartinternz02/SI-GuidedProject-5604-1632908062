@@ -1,1 +1,1 @@
-ACCELQ - Software Test Automation
+# ACCELQ - Software Test Automation
